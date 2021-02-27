@@ -1,0 +1,12 @@
+python -m spacy download en_core_web_sm
+
+label-studio init labeling_project --ml-backends http://localhost:9090/ -l labeling_config.xml -i task.json
+
+cd labeling_project
+label-studio-ml init spacy_backend --script ../ml_model/model.py
+
+
+
+label-studio-ml start .\spacy_backend
+label-studio start .\labeling_project
+

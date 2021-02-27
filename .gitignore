@@ -1,0 +1,4 @@
+.git/*
+.vscode/*
+labeling_project/*
+task.json

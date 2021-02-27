@@ -1,0 +1,26 @@
+<View>
+	<Labels name = "label" toName="text">
+		<Label value="PERSON" background="red" />
+		<Label value="ORG" background="darkorange" />
+		<Label value="FAC" background="orange" />
+		<Label value="MONEY" background="green" />
+		<Label value="DATE" background="darkblue" />
+		<Label value="TIME" background="blue" />
+		<Label value="ORDINAL" background="purple" />
+		<Label value="PERCENT" background="#842" />
+		<Label value="PRODUCT" background="#428" />
+		<Label value="LANGUAGE" background="#482" />
+		<Label value="LOC" background="#542" />
+		<Label value="EVENT" background="#582" />
+		<Label value="WORK_OF_ART" background="#522" />
+		<Label value="CARDINAL" background="#562" />
+		<Label value="NORP" background="#682" />
+		<Label value="QUANTITY" background="#622" />
+		<Label value="GPE" background="#762" />
+		<Label value="CUST_LAB1" background="#722" />
+		<Label value="CUST_LAB2" background="#782" />
+		<Label value="CUST_LAB3" background="#882" />	
+	</Labels>
+
+	<Text name="text" value="$text" />	
+</View>
