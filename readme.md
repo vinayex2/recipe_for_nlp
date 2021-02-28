@@ -31,7 +31,7 @@ Steps:
 ![Label Studio UI](https://github.com/vinayex2/recipe_for_nlp/blob/main/images/process_overview.PNG)
 
 The setup will 
-1. Configure Label Studio for your annotation task
+1. Configure Label Studio for your annotation tasks
 2. Set up a ML Backend using Spacy to automatically train on your annotations (can plugin other ML backends as well)
 
 Use https://labelstud.io/ for user guide and examples
