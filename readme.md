@@ -7,6 +7,8 @@ You can use this template and replace sample documents with your own dataset to 
 
 Current Setup works for Named Entity Recoginition Use case. However, it can be modified to handle other use cases.
 
+The models can be deployed as docker containers for online inference or for standalone batch processing
+
 Requires
 - Python version 3.8.5
 - Spacy Version 2.3.2
