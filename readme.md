@@ -8,10 +8,10 @@ You can use this template and replace sample documents with your own dataset to 
 Current Setup works for Named Entity Recoginition Use case. However, it can be modified to handle other use cases.
 
 Requires
-1. Python version 3.8.5
-2. Spacy Version 2.3.2
-3. Label Studio
- -  Supports variety of NLP annotation tasks
+- Python version 3.8.5
+- Spacy Version 2.3.2
+- Label Studio
+ - -  Supports variety of NLP annotation tasks
 
 Works with Python 3.8.5
 
@@ -19,7 +19,7 @@ Steps:
 1. Modify labeling_config.xml to add your custom labels
 2. Modify sample data to include your own dataset
 3. Run python helper create_tasks dataset_file_path to generate tasks for Label Studio
-3. Use File Commands.txt to get started with setup for Label Studio
+4. Use File Commands.txt to get started with setup for Label Studio
 
 
 The setup will 
