@@ -11,7 +11,7 @@ Requires
 - Python version 3.8.5
 - Spacy Version 2.3.2
 - Label Studio
- - -  Supports variety of NLP annotation tasks
+   -  Supports variety of NLP annotation tasks
 
 Works with Python 3.8.5
 
